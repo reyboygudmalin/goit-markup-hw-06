@@ -708,6 +708,7 @@ background-color: var(--linkcolor);
     transform: translate(-50%, -50%) scale(1);
     min-height: 584px;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 72px 24px 24px 24px;
 }
 .label-privacy {
     display: block;
@@ -802,7 +803,7 @@ background-color: var(--linkcolor);
     padding-left: 16px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    color: var(--title-color);
+    color: var(--white);
     letter-spacing: 0.04em;
 }
 
